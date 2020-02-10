@@ -1,0 +1,7 @@
+C:\Users\linfli\source\repos\09LabExample1_7\09LabExample1_7\bin\Debug\09LabExample1_7.exe.config
+C:\Users\linfli\source\repos\09LabExample1_7\09LabExample1_7\bin\Debug\09LabExample1_7.exe
+C:\Users\linfli\source\repos\09LabExample1_7\09LabExample1_7\bin\Debug\09LabExample1_7.pdb
+C:\Users\linfli\source\repos\09LabExample1_7\09LabExample1_7\obj\Debug\09LabExample1_7.csproj.CoreCompileInputs.cache
+C:\Users\linfli\source\repos\09LabExample1_7\09LabExample1_7\obj\Debug\09LabExample1_7.exe
+C:\Users\linfli\source\repos\09LabExample1_7\09LabExample1_7\obj\Debug\09LabExample1_7.pdb
+C:\Users\linfli\source\repos\09LabExample1_7\09LabExample1_7\obj\Debug\09LabExample1_7.csprojAssemblyReference.cache
